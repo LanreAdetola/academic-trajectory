@@ -32,3 +32,4 @@ htmlcov/
 
 # === Data files (keep raw data out of Git) ===
 *.csv
+!sample.csv
